@@ -11,6 +11,6 @@ from sklearn.metrics import confusion_matrix
 import seaborn as sns
 
 #load cvs data to pandas dataframe
-heartData = pandas.read_csv('heart.csv')python
+heartData = pandas.read_csv('heart.csv')
 #first 5 rows
 heartData.head()
